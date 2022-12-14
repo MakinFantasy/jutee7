@@ -1,4 +1,4 @@
-from math import sin, cos, tan, pi
+from math import sin, cos, tan
 
 
 print('Первая формула')
